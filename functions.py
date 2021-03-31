@@ -3,5 +3,5 @@ def hello():
   print("hi")
   print("allo")
 
-for numberi in range (1000):
+for number in range (1000):
   hello()

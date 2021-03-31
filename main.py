@@ -1,1 +1,1 @@
-from params_ch import *
+from dict_ch import *
